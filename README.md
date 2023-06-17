@@ -1,4 +1,6 @@
 # Multiple Sclerosis Disease Prediction
+![th](https://github.com/AkshayRamakrishnann/Multiple-Sclerosis-Disease/assets/111365771/ab1806a5-ffb0-404c-839b-e3813dfd1d22)
+
 This project focuses on predicting the conversion of Clinically Isolated Syndrome (CIS) to Multiple Sclerosis (MS) using a dataset from Kaggle. The goal is to build models that can accurately classify patients based on various predictors and identify those at risk of developing MS.
 
 # Dataset
